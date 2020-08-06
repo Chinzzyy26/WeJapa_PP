@@ -1,0 +1,74 @@
+.container-fluid {
+  font-family: "Montserrat";
+  font-weight: 500px;
+  font-size: 1.5rem;
+  background-color: #0f4c75;
+
+  color: #bbe1fa;
+}
+
+.heading-img {
+  margin: 30px auto;
+  border-radius: 50%;
+}
+.main-heading {
+  margin: 10px auto;
+  font-weight: 900;
+  font-size: 3.5rem;
+  letter-spacing: 1rem;
+}
+span {
+  color: #3282b8;
+}
+.svg {
+  background-color: #bbe1fa;
+  color: #1b262c;
+}
+.svg-img {
+  border-radius: 20px;
+  margin: 0;
+  padding: 0px;
+}
+.svg-heading {
+  font-weight: 700;
+  font-size: 2.5rem;
+  text-align: left;
+  letter-spacing: 1rem;
+}
+.svg-text {
+  font-weight: 500;
+  font-size: 1.5rem;
+  text-align: left;
+  line-height: 2;
+}
+.inspo-img {
+  border-radius: 50px;
+}
+.inspo-heading {
+  font-weight: 700;
+  font-size: 2.5rem;
+  text-align: center;
+  letter-spacing: 1rem;
+}
+.inspo-text {
+  font-weight: 500;
+  font-size: 1.5rem;
+  text-align: left;
+  line-height: 2;
+}
+.ff {
+  background-color: #bbe1fa;
+  color: #1b262c;
+}
+.ff-heading {
+  font-weight: 700;
+  font-size: 2.5rem;
+  text-align: left;
+  letter-spacing: 1rem;
+}
+.ff-text {
+  font-weight: 500;
+  font-size: 1.5rem;
+  text-align: left;
+  line-height: 2;
+}
